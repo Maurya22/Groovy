@@ -66,3 +66,10 @@ def markDivision = [
         [10,5,8]
 ]
 println markDivision.flatten().average()
+
+
+def names =["rakesh", "ranjeet",null,"sunil"]
+println names*.toUpperCase()
+
+//safe object navigation (?.)
+names.each { println it?.toUpperCase()}

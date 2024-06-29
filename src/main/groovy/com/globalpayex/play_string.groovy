@@ -54,3 +54,16 @@ println studentData.strip()
 
 def maliciousData = "           "
 println maliciousData.isAllWhitespace()
+
+def m1 = "Rakesh Maurya"
+def m2 = "Maurya"
+def m3 = "Rakesh "+ m2
+def m4 = "Rakesh Maurya"
+
+println m1
+println m3
+
+println m1 == m3 // equals() method  in backend
+//In Groovy we can comapre String with ==
+println m1 ===m3
+println m1 ===m4

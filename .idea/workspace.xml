@@ -4,26 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67cf0eb9-0037-4f2d-b611-cc9778a18dec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/groovy/com/globalpayex/evenodd.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/groovy/com/globalpayex/odd_nos.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/groovy/com/globalpayex/play_list.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/groovy/com/globalpayex/play_string.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/groovy/com/globalpayex/play_tuple.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/groovy/com/globalpayex/rectangle.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/groovy/com/globalpayex/student_grade.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/groovy/com/globalpayex/student_list.groovy" afterDir="false" />
+    <list default="true" id="67cf0eb9-0037-4f2d-b611-cc9778a18dec" name="Changes" comment="firstdayGroovy">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,31 +21,37 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Maurya22/Groovy.git",
+    "accountId": "f58c1621-d043-4224-ac1c-e0d00bd615cf"
+  }
 }]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2iUtNKJD91Bd8yrZlvnnv6mL41C" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.Build FirstGroovy.executor": "Run",
-    "Groovy.evenodd.executor": "Run",
-    "Groovy.odd_nos.executor": "Run",
-    "Groovy.play_list.executor": "Run",
-    "Groovy.play_string.executor": "Run",
-    "Groovy.play_tuple.executor": "Run",
-    "Groovy.rectangle.executor": "Run",
-    "Groovy.student_grade.executor": "Run",
-    "Groovy.student_list.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build FirstGroovy.executor&quot;: &quot;Run&quot;,
+    &quot;Groovy.evenodd.executor&quot;: &quot;Run&quot;,
+    &quot;Groovy.odd_nos.executor&quot;: &quot;Run&quot;,
+    &quot;Groovy.play_list.executor&quot;: &quot;Run&quot;,
+    &quot;Groovy.play_string.executor&quot;: &quot;Run&quot;,
+    &quot;Groovy.play_tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Groovy.rectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Groovy.student_grade.executor&quot;: &quot;Run&quot;,
+    &quot;Groovy.student_list.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Groovy.student_list">
     <configuration name="play_list" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="FirstGroovy.main" />
@@ -138,6 +127,30 @@
       <option name="presentableId" value="Default" />
       <updated>1719556944353</updated>
     </task>
+    <task id="LOCAL-00001" summary="firstdayGroovy">
+      <option name="closed" value="true" />
+      <created>1719633853283</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719633853283</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="firstdayGroovy" />
+    <option name="LAST_COMMIT_MESSAGE" value="firstdayGroovy" />
   </component>
 </project>
